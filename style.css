@@ -1,8 +1,14 @@
+body {
+    background-color:khaki;
+    background-image: url(hatter.png);
+    color: white;
+}
+
 h1 {
     text-align: center;
 }
 
 .logo {
-height: 10px;
-width: 20px;
+height: 5px;
+width: 10px;
 }
