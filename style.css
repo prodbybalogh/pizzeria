@@ -25,7 +25,11 @@ text-align: left;
 }
 
 table{
-text-align: center;
-align-self: auto;
-border: 100px;
+    text-align: center;
+}
+
+#felirat {
+font-size: 60px;
+font-family: 'Times New Roman', Times, serif;
+
 }
