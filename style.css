@@ -20,7 +20,6 @@ p {
 
     height: 120px;
     width: 140px;
-    column-gap: 100px;
 }
 
 table{
@@ -28,7 +27,7 @@ table{
 }
 
 #felirat {
-    font-size: 14px;
+    font-size: 22px;
     font-family: 'Times New Roman', Times, serif;
 }
 
