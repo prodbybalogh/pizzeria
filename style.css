@@ -10,7 +10,7 @@ h1, h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-.logo {
+#logo {
 height: 30px;
 width: 60px;
 text-align: left;
