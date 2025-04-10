@@ -4,15 +4,30 @@ body {
     color: white;
 }
 
-h1, h2 {
+h1 {
     text-align: center;
-    font-size: 25px;
+    font-size: 50px;
     font-family: 'Times New Roman', Times, serif;
 }
 
+h2 {
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+p {
+    display: inline;
+    padding: 0px;
+    margin: 0px;
+    border: none;
+}
+
+
 #logo {
-height: 30px;
-width: 60px;
+height: 200px;
+width: 180px;
 text-align: left;
 }
 
