@@ -17,14 +17,10 @@ h2 {
 }
 
 p {
-    text-align: left;
-    height: 100px;
-    width: 90px;
-    padding: none;
-    margin: none;
-    border: none;
-    column-gap: 5px;
-    grid-template-columns: 1fr 1fr 1fr;
+
+    height: 120px;
+    width: 140px;
+    column-gap: 100px;
 }
 
 table{
