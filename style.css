@@ -16,19 +16,13 @@ h2 {
     font-family: 'Times New Roman', Times, serif;
 }
 
-
-p {
-    display: inline;
+#logo {
+    height: 200px;
+    width: 180px;
+    text-align: left;
     padding: 0px;
     margin: 0px;
     border: none;
-}
-
-
-#logo {
-height: 200px;
-width: 180px;
-text-align: left;
 }
 
 table{
@@ -36,13 +30,13 @@ table{
 }
 
 #felirat {
-font-size: 14px;
-font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 .foto {
 
-height: 400px;
-width: 400px;
+    height: 400px;
+    width: 400px;
 
 }
