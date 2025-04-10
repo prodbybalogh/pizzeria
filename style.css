@@ -20,8 +20,8 @@ h2 {
     height: 200px;
     width: 180px;
     text-align: left;
-    padding: 0px;
-    margin: 0px;
+    padding: none;
+    margin: none;
     border: none;
 }
 
