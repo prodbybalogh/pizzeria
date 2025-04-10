@@ -23,5 +23,11 @@ table{
 #felirat {
 font-size: 14px;
 font-family: 'Times New Roman', Times, serif;
+}
+
+.foto {
+
+height: 400px;
+width: 400px;
 
 }
