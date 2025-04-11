@@ -27,8 +27,9 @@ table{
 }
 
 #felirat {
-    font-size: 22px;
+    font-size: 24px;
     font-family: 'Times New Roman', Times, serif;
+    text-align: center;
 }
 
 .foto {
